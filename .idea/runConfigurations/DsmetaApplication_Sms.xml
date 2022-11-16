@@ -1,10 +1,10 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="DsmetaApplication Sms" type="Application" factoryName="Application">
     <envs>
-      <env name="TWILIO_SID" value="AC92e6493f21738f2cdec7fa93350172cd" />
-      <env name="TWILIO_KEY" value="86cc8ea35adedf8574ee9ff1051c7dc4" />
+      <env name="TWILIO_KEY" value="fcef41ec1fa4136f7acaf846cfbe9a8c" />
       <env name="TWILIO_PHONE_FROM" value="+16209822428" />
       <env name="TWILIO_PHONE_TO" value="+5518988057497" />
+      <env name="TWILIO_SID" value="AC92e6493f21738f2cdec7fa93350172cd" />
     </envs>
     <option name="MAIN_CLASS_NAME" value="com.devsuperior.dsmeta.DsmetaApplication" />
     <module name="dsmeta" />
